@@ -5,7 +5,6 @@
 
 ![Disease Prediction](images/disease_prediction.png)
 
-
 <h2>Overview</h2>
 <!-- #overview -->
 <p>This project is a Streamlit web application designed to predict the likelihood of heart disease, kidney disease, and diabetes. The application leverages machine learning models to provide accurate predictions based on user input data. The project includes extensive exploratory data analysis (EDA) and the implementation of multiple machine learning models.</p>
