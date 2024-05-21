@@ -1,5 +1,8 @@
 <h1>Disease Prediction Web Application</h1>
 
+![Disease Prediction](DIABPROJ.png)
+
+![Disease Prediction](HEARTPROJ.png)
 
 ![Disease Prediction](KIDNEYPROJ.png)
 
