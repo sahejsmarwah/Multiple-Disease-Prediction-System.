@@ -1,9 +1,7 @@
 <h1>Disease Prediction Web Application</h1>
-![DIABPROJ](https://github.com/sahejsmarwah/Multiple-Disease-Prediction-System./assets/138249481/dd341118-b945-44f6-8f34-0bfc83417ac7)
-![HEARTPROJ](https://github.com/sahejsmarwah/Multiple-Disease-Prediction-System./assets/138249481/2576ad65-3b14-4054-a4bb-e3c8071ce718)
-![KIDNEYPROJ](https://github.com/sahejsmarwah/Multiple-Disease-Prediction-System./assets/138249481/1a010b0d-7798-44b0-8015-fe9fb9e31bca)
 
-![Disease Prediction](images/disease_prediction.png)
+
+![Disease Prediction](KIDNEYPROJ.png)
 
 <h2>Overview</h2>
 <!-- #overview -->
